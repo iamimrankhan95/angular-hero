@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Tour of Heroes';//these variable can be called directly from html of this Component
+  title = 'Tour of Heroes';//these variable can be called directly from html of this Component/class variable.
 }
